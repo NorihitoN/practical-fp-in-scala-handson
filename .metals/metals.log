@@ -1,0 +1,1297 @@
+2024.05.25 08:29:54 INFO  Started: Metals version 1.3.0 in folders '/Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson' for client coc.nvim 0.0.82.[0m
+SLF4J: Class path contains multiple SLF4J providers.
+SLF4J: Found provider [scribe.slf4j.ScribeServiceProvider@312a3ced]
+SLF4J: Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@4a286716]
+SLF4J: See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual provider is of type [scribe.slf4j.ScribeServiceProvider@312a3ced]
+2024.05.25 08:29:54 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.05.25 08:29:55 WARN  no build target for: /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/build.sbt[0m
+2024.05.25 08:29:55 INFO  Detected new build tool in /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson[0m
+2024.05.25 08:30:00 INFO  running '/Users/norihito.nakata/Library/Application Support/Coursier/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2024.05.25 08:30:04 INFO  [info] Updated file /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project/build.properties: set sbt.version to 1.10.0[0m
+2024.05.25 08:30:04 INFO  [info] welcome to sbt 1.10.0 (Eclipse Adoptium Java 17)[0m
+2024.05.25 08:30:07 INFO  [info] loading global plugins from /Users/norihito.nakata/.sbt/1.0/plugins[0m
+2024.05.25 08:30:11 INFO  no build target found for /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.05.25 08:30:12 INFO  [info] loading settings for project practical-fp-in-scala-handson-build-build from metals.sbt ...[0m
+2024.05.25 08:30:12 INFO  [info] loading project definition from /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project/project[0m
+May 25, 2024 8:30:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+May 25, 2024 8:30:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+exception caught when loading class AbstractMethodError: java.lang.AssertionError: assertion failed: denotation module class AbstractMethodError$ invalid in run 6. ValidFor: Period(1..2, run = 8)
+May 25, 2024 8:30:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+exception caught when loading class AbstractStringBuilder: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 8)
+exception caught when loading trait Appendable: java.lang.AssertionError: assertion failed: denotation module class Appendable$ invalid in run 6. ValidFor: Period(1..2, run = 9)
+May 25, 2024 8:30:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+exception caught when loading class ApplicationShutdownHooks: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 9)
+exception caught when loading class ArithmeticException: java.lang.AssertionError: assertion failed: denotation module class ArithmeticException$ invalid in run 6. ValidFor: Period(1..2, run = 9)
+exception caught when loading class ArrayIndexOutOfBoundsException: java.lang.AssertionError: assertion failed: denotation module class ArrayIndexOutOfBoundsException$ invalid in run 6. ValidFor: Period(1..2, run = 10)
+exception caught when loading class ArrayStoreException: java.lang.AssertionError: assertion failed: denotation module class ArrayStoreException$ invalid in run 6. ValidFor: Period(1..2, run = 10)
+exception caught when loading class AssertionError: java.lang.AssertionError: assertion failed: denotation module class AssertionError$ invalid in run 6. ValidFor: Period(1..2, run = 10)
+exception caught when loading class AssertionStatusDirectives: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 10)
+exception caught when loading trait AutoCloseable: java.lang.AssertionError: assertion failed: denotation module class AutoCloseable$ invalid in run 6. ValidFor: Period(1..2, run = 11)
+exception caught when loading class Boolean: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 11)
+exception caught when loading class BootstrapMethodError: java.lang.AssertionError: assertion failed: denotation module class BootstrapMethodError$ invalid in run 6. ValidFor: Period(1..2, run = 11)
+May 25, 2024 8:30:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+May 25, 2024 8:30:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+exception caught when loading class Byte: java.lang.AssertionError: assertion failed: denotation module class Byte$ invalid in run 6. ValidFor: Period(1..2, run = 12)
+exception caught when loading class Character: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 12)
+exception caught when loading class CharacterData: java.lang.AssertionError: assertion failed: denotation module class CharacterData$ invalid in run 6. ValidFor: Period(1..2, run = 13)
+exception caught when loading class CharacterData00: java.lang.AssertionError: assertion failed: denotation module class CharacterData00$ invalid in run 6. ValidFor: Period(1..2, run = 13)
+exception caught when loading class CharacterData01: java.lang.AssertionError: assertion failed: denotation module class CharacterData01$ invalid in run 6. ValidFor: Period(1..2, run = 13)
+exception caught when loading class CharacterData02: java.lang.AssertionError: assertion failed: denotation module class CharacterData02$ invalid in run 6. ValidFor: Period(1..2, run = 13)
+exception caught when loading class CharacterData03: java.lang.AssertionError: assertion failed: denotation module class CharacterData03$ invalid in run 6. ValidFor: Period(1..2, run = 13)
+May 25, 2024 8:30:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+exception caught when loading class CharacterData0E: java.lang.AssertionError: assertion failed: denotation module class CharacterData0E$ invalid in run 6. ValidFor: Period(1..2, run = 13)
+exception caught when loading class CharacterDataLatin1: java.lang.AssertionError: assertion failed: denotation module class CharacterDataLatin1$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class CharacterDataPrivateUse: java.lang.AssertionError: assertion failed: denotation module class CharacterDataPrivateUse$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class CharacterDataUndefined: java.lang.AssertionError: assertion failed: denotation module class CharacterDataUndefined$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class CharacterName: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ClassCastException: java.lang.AssertionError: assertion failed: denotation module class ClassCastException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ClassCircularityError: java.lang.AssertionError: assertion failed: denotation module class ClassCircularityError$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ClassFormatError: java.lang.AssertionError: assertion failed: denotation module class ClassFormatError$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ClassLoader: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ClassNotFoundException: java.lang.AssertionError: assertion failed: denotation module class ClassNotFoundException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ClassValue: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class CloneNotSupportedException: java.lang.AssertionError: assertion failed: denotation module class CloneNotSupportedException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading trait Cloneable: java.lang.AssertionError: assertion failed: denotation module class Cloneable$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading trait Comparable: java.lang.AssertionError: assertion failed: denotation module class Comparable$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Compiler: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class CompoundEnumeration: java.lang.AssertionError: assertion failed: denotation module class CompoundEnumeration$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ConditionalSpecialCasing: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading trait Deprecated: java.lang.AssertionError: assertion failed: denotation class AnnotationDefault invalid in run 6. ValidFor: Period(1..5, run = 14)
+exception caught when loading class Double: java.lang.AssertionError: assertion failed: denotation module class Double$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Enum: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class EnumConstantNotPresentException: java.lang.AssertionError: assertion failed: denotation module class EnumConstantNotPresentException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Error: java.lang.AssertionError: assertion failed: denotation module class Error$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Exception: java.lang.AssertionError: assertion failed: denotation module class Exception$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ExceptionInInitializerError: java.lang.AssertionError: assertion failed: denotation module class ExceptionInInitializerError$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class FdLibm: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Float: java.lang.AssertionError: assertion failed: denotation module class Float$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class FunctionalInterface: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class IllegalAccessError: java.lang.AssertionError: assertion failed: denotation module class IllegalAccessError$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class IllegalAccessException: java.lang.AssertionError: assertion failed: denotation module class IllegalAccessException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class IllegalArgumentException: java.lang.AssertionError: assertion failed: denotation module class IllegalArgumentException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class IllegalCallerException: java.lang.AssertionError: assertion failed: denotation module class IllegalCallerException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class IllegalMonitorStateException: java.lang.AssertionError: assertion failed: denotation module class IllegalMonitorStateException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class IllegalStateException: java.lang.AssertionError: assertion failed: denotation module class IllegalStateException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class IllegalThreadStateException: java.lang.AssertionError: assertion failed: denotation module class IllegalThreadStateException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class IncompatibleClassChangeError: java.lang.AssertionError: assertion failed: denotation module class IncompatibleClassChangeError$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class IndexOutOfBoundsException: java.lang.AssertionError: assertion failed: denotation module class IndexOutOfBoundsException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class InheritableThreadLocal: java.lang.AssertionError: assertion failed: denotation module class InheritableThreadLocal$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class InstantiationError: java.lang.AssertionError: assertion failed: denotation module class InstantiationError$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class InstantiationException: java.lang.AssertionError: assertion failed: denotation module class InstantiationException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Integer: java.lang.AssertionError: assertion failed: denotation module class Integer$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class InternalError: java.lang.AssertionError: assertion failed: denotation module class InternalError$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class InterruptedException: java.lang.AssertionError: assertion failed: denotation module class InterruptedException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Iterable: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class LayerInstantiationException: java.lang.AssertionError: assertion failed: denotation module class LayerInstantiationException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class LinkageError: java.lang.AssertionError: assertion failed: denotation module class LinkageError$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class LiveStackFrame: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class LiveStackFrameInfo: java.lang.AssertionError: assertion failed: denotation module class LiveStackFrameInfo$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Long: java.lang.AssertionError: assertion failed: denotation module class Long$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Math: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Module: java.lang.AssertionError: assertion failed: denotation module class Module$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ModuleLayer: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class NamedPackage: java.lang.AssertionError: assertion failed: denotation module class NamedPackage$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class NegativeArraySizeException: java.lang.AssertionError: assertion failed: denotation module class NegativeArraySizeException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class NoClassDefFoundError: java.lang.AssertionError: assertion failed: denotation module class NoClassDefFoundError$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class NoSuchFieldError: java.lang.AssertionError: assertion failed: denotation module class NoSuchFieldError$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class NoSuchFieldException: java.lang.AssertionError: assertion failed: denotation module class NoSuchFieldException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class NoSuchMethodError: java.lang.AssertionError: assertion failed: denotation module class NoSuchMethodError$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class NoSuchMethodException: java.lang.AssertionError: assertion failed: denotation module class NoSuchMethodException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class NullPointerException: java.lang.AssertionError: assertion failed: denotation module class NullPointerException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Number: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class NumberFormatException: java.lang.AssertionError: assertion failed: denotation module class NumberFormatException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class OutOfMemoryError: java.lang.AssertionError: assertion failed: denotation module class OutOfMemoryError$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Override: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Package: java.lang.AssertionError: assertion failed: denotation module class Package$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Process: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessBuilder: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessEnvironment: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading trait ProcessHandle: java.lang.AssertionError: assertion failed: denotation module class ProcessHandle$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessHandleImpl: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessImpl: java.lang.AssertionError: assertion failed: denotation module class ProcessImpl$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class PublicMethods: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading trait Readable: java.lang.AssertionError: assertion failed: denotation module class Readable$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Record: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ReflectiveOperationException: java.lang.AssertionError: assertion failed: denotation module class ReflectiveOperationException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Runnable: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Runtime: java.lang.AssertionError: assertion failed: denotation module class Runtime$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class RuntimeException: java.lang.AssertionError: assertion failed: denotation module class RuntimeException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class RuntimePermission: java.lang.AssertionError: assertion failed: denotation module class RuntimePermission$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class SafeVarargs: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class SecurityException: java.lang.AssertionError: assertion failed: denotation module class SecurityException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class SecurityManager: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Short: java.lang.AssertionError: assertion failed: denotation module class Short$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Shutdown: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StackWalker: java.lang.AssertionError: assertion failed: denotation module class StackWalker$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StackFrameInfo: java.lang.AssertionError: assertion failed: denotation module class StackWalker$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StackOverflowError: java.lang.AssertionError: assertion failed: denotation module class StackOverflowError$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StackStreamFactory: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StackTraceElement: java.lang.AssertionError: assertion failed: denotation module class StackTraceElement$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StrictMath: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StringBuffer: java.lang.AssertionError: assertion failed: denotation module class StringBuffer$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StringBuilder: java.lang.AssertionError: assertion failed: denotation module class StringBuilder$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StringCoding: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StringConcatHelper: java.lang.AssertionError: assertion failed: denotation module class StringConcatHelper$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StringIndexOutOfBoundsException: java.lang.AssertionError: assertion failed: denotation module class StringIndexOutOfBoundsException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StringLatin1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StringUTF16: java.lang.AssertionError: assertion failed: denotation module class StringUTF16$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class SuppressWarnings: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class System: java.lang.AssertionError: assertion failed: denotation module class System$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Terminator: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Thread: java.lang.AssertionError: assertion failed: denotation module class Thread$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ThreadDeath: java.lang.AssertionError: assertion failed: denotation module class ThreadDeath$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ThreadGroup: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ThreadLocal: java.lang.AssertionError: assertion failed: denotation module class ThreadLocal$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Throwable: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class TypeNotPresentException: java.lang.AssertionError: assertion failed: denotation module class TypeNotPresentException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class UnknownError: java.lang.AssertionError: assertion failed: denotation module class UnknownError$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class UnsatisfiedLinkError: java.lang.AssertionError: assertion failed: denotation module class UnsatisfiedLinkError$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class UnsupportedClassVersionError: java.lang.AssertionError: assertion failed: denotation module class UnsupportedClassVersionError$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class UnsupportedOperationException: java.lang.AssertionError: assertion failed: denotation module class UnsupportedOperationException$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class VerifyError: java.lang.AssertionError: assertion failed: denotation module class VerifyError$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class VersionProps: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class VirtualMachineError: java.lang.AssertionError: assertion failed: denotation module class VirtualMachineError$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Void: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class WeakPairMap: java.lang.AssertionError: assertion failed: denotation module class WeakPairMap$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ApplicationShutdownHooks$1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Byte$ByteCache: java.lang.AssertionError: assertion failed: denotation module class Byte$ByteCache$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class CharSequence$1CharIterator: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading trait PrimitiveIterator: java.lang.AssertionError: assertion failed: denotation module class PrimitiveIterator$ invalid in run 6. ValidFor: Period(1..5, run = 14)
+exception caught when loading class CharSequence$1CodePointIterator: java.lang.AssertionError: assertion failed: denotation module class PrimitiveIterator$ invalid in run 6. ValidFor: Period(1..5, run = 14)
+exception caught when loading class Character$CharacterCache: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Character$Subset: java.lang.AssertionError: assertion failed: denotation module class Character$Subset$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Character$UnicodeBlock: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.Character$Subset,
+outerName = java.lang.Character,
+innerName = Subset
+owner.fullName = Character
+while parsing /modules/java.base/java/lang/Character$UnicodeBlock.class
+exception caught when loading class Character$UnicodeScript: java.lang.AssertionError: assertion failed: denotation module class Character$UnicodeScript$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class CharacterName$1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Class$1: java.lang.AssertionError: assertion failed: denotation module class Class$1$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Class$2: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Class$3: java.lang.AssertionError: assertion failed: denotation module class Class$3$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Class$AnnotationData: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Class$Atomic: java.lang.AssertionError: assertion failed: denotation module class Class$Atomic$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Class$EnclosingMethodInfo: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Class$ReflectionData: java.lang.AssertionError: assertion failed: denotation module class Class$ReflectionData$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ClassLoader$1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ClassLoader$ParallelLoaders: java.lang.AssertionError: assertion failed: denotation module class ClassLoader$ParallelLoaders$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ClassValue$ClassValueMap: java.lang.AssertionError: assertion failed: denotation module class ClassValue$ClassValueMap$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ClassValue$Entry: java.lang.AssertionError: assertion failed: denotation module class ClassValue$Entry$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ClassValue$Identity: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ClassValue$Version: java.lang.AssertionError: assertion failed: denotation module class ClassValue$Version$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ConditionalSpecialCasing$Entry: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Enum$EnumDesc: java.lang.AssertionError: assertion failed: denotation module class Enum$EnumDesc$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class FdLibm$Cbrt: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class FdLibm$Exp: java.lang.AssertionError: assertion failed: denotation module class FdLibm$Exp$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class FdLibm$Hypot: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class FdLibm$Pow: java.lang.AssertionError: assertion failed: denotation module class FdLibm$Pow$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Integer$IntegerCache: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class LiveStackFrame$PrimitiveSlot: java.lang.AssertionError: assertion failed: denotation module class LiveStackFrame$PrimitiveSlot$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class LiveStackFrameInfo$PrimitiveSlot32: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.LiveStackFrame$PrimitiveSlot,
+outerName = java.lang.LiveStackFrame,
+innerName = PrimitiveSlot
+owner.fullName = LiveStackFrame
+while parsing /modules/java.base/java/lang/LiveStackFrameInfo$PrimitiveSlot32.class
+exception caught when loading class LiveStackFrameInfo$PrimitiveSlot64: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.LiveStackFrame$PrimitiveSlot,
+outerName = java.lang.LiveStackFrame,
+innerName = PrimitiveSlot
+owner.fullName = LiveStackFrame
+while parsing /modules/java.base/java/lang/LiveStackFrameInfo$PrimitiveSlot64.class
+exception caught when loading class Long$LongCache: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Math$RandomNumberGeneratorHolder: java.lang.AssertionError: assertion failed: denotation module class Math$RandomNumberGeneratorHolder$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Module$1: java.lang.AssertionError: assertion failed: denotation module class Module$1$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Module$1DummyModuleInfo: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Module$2: java.lang.AssertionError: assertion failed: denotation module class Module$2$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Module$ArchivedData: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Module$ReflectionData: java.lang.AssertionError: assertion failed: denotation module class Module$ReflectionData$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ModuleLayer$Controller: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Package$1PackageInfoProxy: java.lang.AssertionError: assertion failed: denotation module class Package$1PackageInfoProxy$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Package$VersionInfo: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ForkJoinPool: java.lang.AssertionError: assertion failed: denotation module class ForkJoinPool$ invalid in run 6. ValidFor: Period(1..5, run = 14)
+exception caught when loading class Process$1: java.lang.AssertionError: assertion failed: denotation module class ForkJoinPool$ invalid in run 6. ValidFor: Period(1..5, run = 14)
+exception caught when loading class Process$CharsetHolder: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Process$PipeInputStream: java.lang.AssertionError: assertion failed: denotation module class Process$PipeInputStream$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessBuilder$NullInputStream: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$NullInputStream$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessBuilder$NullOutputStream: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$NullOutputStream$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessBuilder$Redirect$1: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessBuilder$Redirect$2: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessBuilder$Redirect$3: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessBuilder$Redirect$4: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessBuilder$Redirect$5: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessBuilder$Redirect$6: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessBuilder$Redirect$Type: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$Redirect$Type$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessBuilder$Redirect: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessBuilder$RedirectPipeImpl: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessEnvironment$ExternalData: java.lang.AssertionError: assertion failed: denotation module class ProcessEnvironment$ExternalData$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessEnvironment$StringEntry: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessEnvironment$StringEntrySet$1: java.lang.AssertionError: assertion failed: denotation module class ProcessEnvironment$StringEntrySet$1$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessEnvironment$StringEntrySet$2: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessEnvironment$StringEntrySet: java.lang.AssertionError: assertion failed: denotation module class ProcessEnvironment$StringEntrySet$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessEnvironment$StringEnvironment: java.lang.AssertionError: assertion failed: denotation module class ProcessEnvironment$StringEnvironment$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessEnvironment$StringKeySet$1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessEnvironment$StringKeySet: java.lang.AssertionError: assertion failed: denotation module class ProcessEnvironment$StringKeySet$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessEnvironment$StringValues$1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessEnvironment$StringValues: java.lang.AssertionError: assertion failed: denotation module class ProcessEnvironment$StringValues$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessEnvironment$Value: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.ProcessEnvironment$ExternalData,
+outerName = java.lang.ProcessEnvironment,
+innerName = ExternalData
+owner.fullName = ProcessEnvironment
+while parsing /modules/java.base/java/lang/ProcessEnvironment$Value.class
+exception caught when loading class ProcessEnvironment$Variable: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.ProcessEnvironment$ExternalData,
+outerName = java.lang.ProcessEnvironment,
+innerName = ExternalData
+owner.fullName = ProcessEnvironment
+while parsing /modules/java.base/java/lang/ProcessEnvironment$Variable.class
+exception caught when loading class ProcessHandle$Info: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessHandleImpl$1: java.lang.AssertionError: assertion failed: denotation module class ProcessHandleImpl$1$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessHandleImpl$ExitCompletion: java.lang.AssertionError: assertion failed: denotation module class ProcessHandleImpl$ExitCompletion$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessHandleImpl$Info: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessImpl$1: java.lang.AssertionError: assertion failed: denotation module class ProcessImpl$1$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessImpl$DeferredCloseInputStream: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.Process$PipeInputStream,
+outerName = java.lang.Process,
+innerName = PipeInputStream
+owner.fullName = Process
+while parsing /modules/java.base/java/lang/ProcessImpl$DeferredCloseInputStream.class
+exception caught when loading class ProcessImpl$DeferredCloseProcessPipeInputStream: java.lang.AssertionError: assertion failed: denotation module class ProcessImpl$DeferredCloseProcessPipeInputStream$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessImpl$LaunchMechanism: java.lang.AssertionError: assertion failed: denotation module class ProcessImpl$LaunchMechanism$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessImpl$Platform: java.lang.AssertionError: assertion failed: denotation module class ProcessImpl$Platform$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessImpl$ProcessPipeInputStream: java.lang.AssertionError: assertion failed: denotation module class ProcessImpl$ProcessPipeInputStream$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ProcessImpl$ProcessPipeOutputStream: java.lang.AssertionError: assertion failed: denotation module class ProcessImpl$ProcessPipeOutputStream$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class PublicMethods$Key: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class PublicMethods$MethodList: java.lang.AssertionError: assertion failed: denotation module class PublicMethods$MethodList$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Runtime$Version: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Runtime$VersionPattern: java.lang.AssertionError: assertion failed: denotation module class Runtime$VersionPattern$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class SecurityManager$1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class SecurityManager$2: java.lang.AssertionError: assertion failed: denotation module class SecurityManager$2$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Short$ShortCache: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Shutdown$Lock: java.lang.AssertionError: assertion failed: denotation module class Shutdown$Lock$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StackStreamFactory$1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StackStreamFactory$AbstractStackWalker: java.lang.AssertionError: assertion failed: denotation module class StackStreamFactory$AbstractStackWalker$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StackStreamFactory$CallerClassFinder$ClassBuffer: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.StackStreamFactory$FrameBuffer,
+outerName = java.lang.StackStreamFactory,
+innerName = FrameBuffer
+owner.fullName = StackStreamFactory
+while parsing /modules/java.base/java/lang/StackStreamFactory$CallerClassFinder$ClassBuffer.class
+exception caught when loading class StackStreamFactory$CallerClassFinder: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.StackStreamFactory$AbstractStackWalker,
+outerName = java.lang.StackStreamFactory,
+innerName = AbstractStackWalker
+owner.fullName = StackStreamFactory
+while parsing /modules/java.base/java/lang/StackStreamFactory$CallerClassFinder.class
+exception caught when loading class StackStreamFactory$FrameBuffer: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StackStreamFactory$LiveStackInfoTraverser$LiveStackFrameBuffer: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.StackStreamFactory$FrameBuffer,
+outerName = java.lang.StackStreamFactory,
+innerName = FrameBuffer
+owner.fullName = StackStreamFactory
+while parsing /modules/java.base/java/lang/StackStreamFactory$LiveStackInfoTraverser$LiveStackFrameBuffer.class
+exception caught when loading class StackStreamFactory$LiveStackInfoTraverser: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.StackStreamFactory$StackFrameTraverser,
+outerName = java.lang.StackStreamFactory,
+innerName = StackFrameTraverser
+owner.fullName = StackStreamFactory
+while parsing /modules/java.base/java/lang/StackStreamFactory$LiveStackInfoTraverser.class
+exception caught when loading class StackStreamFactory$StackFrameTraverser$StackFrameBuffer: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.StackStreamFactory$FrameBuffer,
+outerName = java.lang.StackStreamFactory,
+innerName = FrameBuffer
+owner.fullName = StackStreamFactory
+while parsing /modules/java.base/java/lang/StackStreamFactory$StackFrameTraverser$StackFrameBuffer.class
+exception caught when loading class StackStreamFactory$StackFrameTraverser: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.StackStreamFactory$AbstractStackWalker,
+outerName = java.lang.StackStreamFactory,
+innerName = AbstractStackWalker
+owner.fullName = StackStreamFactory
+while parsing /modules/java.base/java/lang/StackStreamFactory$StackFrameTraverser.class
+exception caught when loading class StackStreamFactory$WalkerState: java.lang.AssertionError: assertion failed: denotation module class StackStreamFactory$WalkerState$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StackTraceElement$HashedModules: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StackWalker$ExtendedOption: java.lang.AssertionError: assertion failed: denotation module class StackWalker$ExtendedOption$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StackWalker$Option: java.lang.AssertionError: assertion failed: denotation module class StackWalker$Option$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StackWalker$StackFrame: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StrictMath$RandomNumberGeneratorHolder: java.lang.AssertionError: assertion failed: denotation module class StrictMath$RandomNumberGeneratorHolder$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class String$CaseInsensitiveComparator: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading trait Spliterator: java.lang.AssertionError: assertion failed: denotation module class Spliterator$ invalid in run 6. ValidFor: Period(1..5, run = 14)
+exception caught when loading class StringLatin1$CharsSpliterator: java.lang.AssertionError: assertion failed: denotation module class Spliterator$ invalid in run 6. ValidFor: Period(1..5, run = 14)
+exception caught when loading class StringLatin1$LinesSpliterator: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class StringUTF16$CharsSpliterator: java.lang.AssertionError: assertion failed: denotation module class Spliterator$ invalid in run 6. ValidFor: Period(1..5, run = 14)
+exception caught when loading class StringUTF16$CodePointsSpliterator: java.lang.AssertionError: assertion failed: denotation module class Spliterator$ invalid in run 6. ValidFor: Period(1..5, run = 14)
+exception caught when loading class StringUTF16$LinesSpliterator: java.lang.AssertionError: assertion failed: denotation module class StringUTF16$LinesSpliterator$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class System$1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class System$2: java.lang.AssertionError: assertion failed: denotation module class System$2$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class System$CallersHolder: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class System$Logger$Level: java.lang.AssertionError: assertion failed: denotation module class System$Logger$Level$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class System$Logger: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class System$LoggerFinder: java.lang.AssertionError: assertion failed: denotation module class System$LoggerFinder$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Terminator$1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Thread$1: java.lang.AssertionError: assertion failed: denotation module class Thread$1$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Thread$Caches: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Thread$State: java.lang.AssertionError: assertion failed: denotation module class Thread$State$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Thread$UncaughtExceptionHandler: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Thread$WeakClassKey: java.lang.AssertionError: assertion failed: denotation module class Thread$WeakClassKey$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ThreadLocal$SuppliedThreadLocal: java.lang.AssertionError: assertion failed: denotation module class ThreadLocal$SuppliedThreadLocal$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ThreadLocal$ThreadLocalMap$Entry: java.lang.AssertionError: assertion failed: denotation module class ThreadLocal$ThreadLocalMap$Entry$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class ThreadLocal$ThreadLocalMap: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Throwable$PrintStreamOrWriter: java.lang.AssertionError: assertion failed: denotation module class Throwable$PrintStreamOrWriter$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Throwable$SentinelHolder: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class Throwable$WrappedPrintStream: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.Throwable$PrintStreamOrWriter,
+outerName = java.lang.Throwable,
+innerName = PrintStreamOrWriter
+owner.fullName = Throwable
+while parsing /modules/java.base/java/lang/Throwable$WrappedPrintStream.class
+exception caught when loading class Throwable$WrappedPrintWriter: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.Throwable$PrintStreamOrWriter,
+outerName = java.lang.Throwable,
+innerName = PrintStreamOrWriter
+owner.fullName = Throwable
+while parsing /modules/java.base/java/lang/Throwable$WrappedPrintWriter.class
+exception caught when loading class WeakPairMap$Pair$Lookup: java.lang.AssertionError: assertion failed: denotation module class WeakPairMap$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class WeakPairMap$Pair$Weak$1: java.lang.AssertionError: assertion failed: denotation module class WeakPairMap$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class WeakPairMap$Pair$Weak: java.lang.AssertionError: assertion failed: denotation module class WeakPairMap$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading trait WeakPairMap$Pair: java.lang.AssertionError: assertion failed: denotation module class WeakPairMap$Pair$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+exception caught when loading class WeakPairMap$WeakRefPeer: java.lang.AssertionError: assertion failed: denotation module class WeakPairMap$WeakRefPeer$ invalid in run 6. ValidFor: Period(1..2, run = 14)
+May 25, 2024 8:30:14 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/.reports/metals-full/2024-05-25/r_compiler-error_08-30-14-513.md
+exception caught when loading class InstantiationError: java.lang.AssertionError: assertion failed: denotation class InstantiationError invalid in run 1. ValidFor: Period(1..2, run = 3)
+exception caught when loading class InstantiationException: java.lang.AssertionError: assertion failed: denotation module class InstantiationException$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Integer: java.lang.AssertionError: assertion failed: denotation module class Integer$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class InternalError: java.lang.AssertionError: assertion failed: denotation module class InternalError$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class InterruptedException: java.lang.AssertionError: assertion failed: denotation module class InterruptedException$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Iterable: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class LayerInstantiationException: java.lang.AssertionError: assertion failed: denotation module class LayerInstantiationException$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class LiveStackFrame: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class LiveStackFrameInfo: java.lang.AssertionError: assertion failed: denotation module class LiveStackFrameInfo$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Long: java.lang.AssertionError: assertion failed: denotation module class Long$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Math: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Module: java.lang.AssertionError: assertion failed: denotation module class Module$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ModuleLayer: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class NamedPackage: java.lang.AssertionError: assertion failed: denotation module class NamedPackage$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class NegativeArraySizeException: java.lang.AssertionError: assertion failed: denotation module class NegativeArraySizeException$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class NoClassDefFoundError: java.lang.AssertionError: assertion failed: denotation module class NoClassDefFoundError$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class NoSuchFieldError: java.lang.AssertionError: assertion failed: denotation module class NoSuchFieldError$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class NoSuchFieldException: java.lang.AssertionError: assertion failed: denotation module class NoSuchFieldException$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class NoSuchMethodError: java.lang.AssertionError: assertion failed: denotation module class NoSuchMethodError$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class NoSuchMethodException: java.lang.AssertionError: assertion failed: denotation module class NoSuchMethodException$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class NullPointerException: java.lang.AssertionError: assertion failed: denotation module class NullPointerException$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class NumberFormatException: java.lang.AssertionError: assertion failed: denotation module class NumberFormatException$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class OutOfMemoryError: java.lang.AssertionError: assertion failed: denotation module class OutOfMemoryError$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Override: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Package: java.lang.AssertionError: assertion failed: denotation module class Package$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Process: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessBuilder: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessEnvironment: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading trait ProcessHandle: java.lang.AssertionError: assertion failed: denotation module class ProcessHandle$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessHandleImpl: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessImpl: java.lang.AssertionError: assertion failed: denotation module class ProcessImpl$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class PublicMethods: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading trait Readable: java.lang.AssertionError: assertion failed: denotation module class Readable$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Record: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading trait Runnable: java.lang.AssertionError: assertion failed: denotation module class Runnable$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Runtime: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class RuntimePermission: java.lang.AssertionError: assertion failed: denotation module class RuntimePermission$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class SafeVarargs: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class SecurityException: java.lang.AssertionError: assertion failed: denotation module class SecurityException$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class SecurityManager: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Short: java.lang.AssertionError: assertion failed: denotation module class Short$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Shutdown: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StackWalker: java.lang.AssertionError: assertion failed: denotation module class StackWalker$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StackFrameInfo: java.lang.AssertionError: assertion failed: denotation module class StackWalker$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StackOverflowError: java.lang.AssertionError: assertion failed: denotation module class StackOverflowError$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StackStreamFactory: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StackTraceElement: java.lang.AssertionError: assertion failed: denotation module class StackTraceElement$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StrictMath: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StringBuffer: java.lang.AssertionError: assertion failed: denotation module class StringBuffer$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StringBuilder: java.lang.AssertionError: assertion failed: denotation module class StringBuilder$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StringCoding: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StringConcatHelper: java.lang.AssertionError: assertion failed: denotation module class StringConcatHelper$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StringIndexOutOfBoundsException: java.lang.AssertionError: assertion failed: denotation module class StringIndexOutOfBoundsException$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StringLatin1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StringUTF16: java.lang.AssertionError: assertion failed: denotation module class StringUTF16$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class SuppressWarnings: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class System: java.lang.AssertionError: assertion failed: denotation module class System$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Terminator: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Thread: java.lang.AssertionError: assertion failed: denotation module class Thread$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ThreadDeath: java.lang.AssertionError: assertion failed: denotation module class ThreadDeath$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ThreadGroup: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ThreadLocal: java.lang.AssertionError: assertion failed: denotation module class ThreadLocal$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class TypeNotPresentException: java.lang.AssertionError: assertion failed: denotation module class TypeNotPresentException$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class UnknownError: java.lang.AssertionError: assertion failed: denotation module class UnknownError$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class UnsatisfiedLinkError: java.lang.AssertionError: assertion failed: denotation module class UnsatisfiedLinkError$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class UnsupportedClassVersionError: java.lang.AssertionError: assertion failed: denotation module class UnsupportedClassVersionError$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class UnsupportedOperationException: java.lang.AssertionError: assertion failed: denotation module class UnsupportedOperationException$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class VerifyError: java.lang.AssertionError: assertion failed: denotation module class VerifyError$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class VersionProps: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class VirtualMachineError: java.lang.AssertionError: assertion failed: denotation module class VirtualMachineError$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Void: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class WeakPairMap: java.lang.AssertionError: assertion failed: denotation module class WeakPairMap$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ApplicationShutdownHooks$1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Byte$ByteCache: java.lang.AssertionError: assertion failed: denotation module class Byte$ByteCache$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class CharSequence$1CharIterator: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading trait PrimitiveIterator: java.lang.AssertionError: assertion failed: denotation module class PrimitiveIterator$ invalid in run 3. ValidFor: Period(1..5, run = 4)
+exception caught when loading class CharSequence$1CodePointIterator: java.lang.AssertionError: assertion failed: denotation module class PrimitiveIterator$ invalid in run 3. ValidFor: Period(1..5, run = 4)
+exception caught when loading class Character$CharacterCache: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Character$Subset: java.lang.AssertionError: assertion failed: denotation module class Character$Subset$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Character$UnicodeBlock: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Character$UnicodeScript: java.lang.AssertionError: assertion failed: denotation module class Character$UnicodeScript$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class CharacterName$1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Class$1: java.lang.AssertionError: assertion failed: denotation module class Class$1$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Class$2: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Class$3: java.lang.AssertionError: assertion failed: denotation module class Class$3$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Class$AnnotationData: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Class$Atomic: java.lang.AssertionError: assertion failed: denotation module class Class$Atomic$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Class$EnclosingMethodInfo: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Class$ReflectionData: java.lang.AssertionError: assertion failed: denotation module class Class$ReflectionData$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ClassLoader$1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ClassLoader$ParallelLoaders: java.lang.AssertionError: assertion failed: denotation module class ClassLoader$ParallelLoaders$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ClassValue$ClassValueMap: java.lang.AssertionError: assertion failed: denotation module class ClassValue$ClassValueMap$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ClassValue$Entry: java.lang.AssertionError: assertion failed: denotation module class ClassValue$Entry$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ClassValue$Identity: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ClassValue$Version: java.lang.AssertionError: assertion failed: denotation module class ClassValue$Version$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ConditionalSpecialCasing$Entry: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Enum$EnumDesc: java.lang.AssertionError: assertion failed: denotation module class Enum$EnumDesc$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class FdLibm$Cbrt: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class FdLibm$Exp: java.lang.AssertionError: assertion failed: denotation module class FdLibm$Exp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class FdLibm$Hypot: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class FdLibm$Pow: java.lang.AssertionError: assertion failed: denotation module class FdLibm$Pow$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Integer$IntegerCache: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class LiveStackFrame$PrimitiveSlot: java.lang.AssertionError: assertion failed: denotation module class LiveStackFrame$PrimitiveSlot$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class LiveStackFrameInfo$PrimitiveSlot32: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.LiveStackFrame$PrimitiveSlot,
+outerName = java.lang.LiveStackFrame,
+innerName = PrimitiveSlot
+owner.fullName = LiveStackFrame
+while parsing /modules/java.base/java/lang/LiveStackFrameInfo$PrimitiveSlot32.class
+exception caught when loading class LiveStackFrameInfo$PrimitiveSlot64: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.LiveStackFrame$PrimitiveSlot,
+outerName = java.lang.LiveStackFrame,
+innerName = PrimitiveSlot
+owner.fullName = LiveStackFrame
+while parsing /modules/java.base/java/lang/LiveStackFrameInfo$PrimitiveSlot64.class
+exception caught when loading class Long$LongCache: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Math$RandomNumberGeneratorHolder: java.lang.AssertionError: assertion failed: denotation module class Math$RandomNumberGeneratorHolder$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Module$1: java.lang.AssertionError: assertion failed: denotation module class Module$1$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Module$1DummyModuleInfo: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Module$2: java.lang.AssertionError: assertion failed: denotation module class Module$2$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Module$ArchivedData: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Module$ReflectionData: java.lang.AssertionError: assertion failed: denotation module class Module$ReflectionData$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ModuleLayer$Controller: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Package$1PackageInfoProxy: java.lang.AssertionError: assertion failed: denotation module class Package$1PackageInfoProxy$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Package$VersionInfo: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ForkJoinPool: java.lang.AssertionError: assertion failed: denotation module class ForkJoinPool$ invalid in run 3. ValidFor: Period(1..5, run = 4)
+exception caught when loading class Process$1: java.lang.AssertionError: assertion failed: denotation module class ForkJoinPool$ invalid in run 3. ValidFor: Period(1..5, run = 4)
+exception caught when loading class Process$CharsetHolder: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Process$PipeInputStream: java.lang.AssertionError: assertion failed: denotation module class Process$PipeInputStream$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessBuilder$NullInputStream: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$NullInputStream$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessBuilder$NullOutputStream: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$NullOutputStream$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessBuilder$Redirect$1: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessBuilder$Redirect$2: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessBuilder$Redirect$3: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessBuilder$Redirect$4: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessBuilder$Redirect$5: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessBuilder$Redirect$6: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessBuilder$Redirect$Type: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$Redirect$Type$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessBuilder$Redirect: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessBuilder$RedirectPipeImpl: java.lang.AssertionError: assertion failed: denotation module class ProcessBuilder$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessEnvironment$ExternalData: java.lang.AssertionError: assertion failed: denotation module class ProcessEnvironment$ExternalData$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessEnvironment$StringEntry: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessEnvironment$StringEntrySet$1: java.lang.AssertionError: assertion failed: denotation module class ProcessEnvironment$StringEntrySet$1$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessEnvironment$StringEntrySet$2: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessEnvironment$StringEntrySet: java.lang.AssertionError: assertion failed: denotation module class ProcessEnvironment$StringEntrySet$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessEnvironment$StringEnvironment: java.lang.AssertionError: assertion failed: denotation module class ProcessEnvironment$StringEnvironment$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessEnvironment$StringKeySet$1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessEnvironment$StringKeySet: java.lang.AssertionError: assertion failed: denotation module class ProcessEnvironment$StringKeySet$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessEnvironment$StringValues$1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessEnvironment$StringValues: java.lang.AssertionError: assertion failed: denotation module class ProcessEnvironment$StringValues$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessEnvironment$Value: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.ProcessEnvironment$ExternalData,
+outerName = java.lang.ProcessEnvironment,
+innerName = ExternalData
+owner.fullName = ProcessEnvironment
+while parsing /modules/java.base/java/lang/ProcessEnvironment$Value.class
+exception caught when loading class ProcessEnvironment$Variable: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.ProcessEnvironment$ExternalData,
+outerName = java.lang.ProcessEnvironment,
+innerName = ExternalData
+owner.fullName = ProcessEnvironment
+while parsing /modules/java.base/java/lang/ProcessEnvironment$Variable.class
+exception caught when loading class ProcessHandle$Info: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessHandleImpl$1: java.lang.AssertionError: assertion failed: denotation module class ProcessHandleImpl$1$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessHandleImpl$ExitCompletion: java.lang.AssertionError: assertion failed: denotation module class ProcessHandleImpl$ExitCompletion$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessHandleImpl$Info: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessImpl$1: java.lang.AssertionError: assertion failed: denotation module class ProcessImpl$1$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessImpl$DeferredCloseInputStream: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.Process$PipeInputStream,
+outerName = java.lang.Process,
+innerName = PipeInputStream
+owner.fullName = Process
+while parsing /modules/java.base/java/lang/ProcessImpl$DeferredCloseInputStream.class
+exception caught when loading class ProcessImpl$DeferredCloseProcessPipeInputStream: java.lang.AssertionError: assertion failed: denotation module class ProcessImpl$DeferredCloseProcessPipeInputStream$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessImpl$LaunchMechanism: java.lang.AssertionError: assertion failed: denotation module class ProcessImpl$LaunchMechanism$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessImpl$Platform: java.lang.AssertionError: assertion failed: denotation module class ProcessImpl$Platform$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessImpl$ProcessPipeInputStream: java.lang.AssertionError: assertion failed: denotation module class ProcessImpl$ProcessPipeInputStream$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ProcessImpl$ProcessPipeOutputStream: java.lang.AssertionError: assertion failed: denotation module class ProcessImpl$ProcessPipeOutputStream$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class PublicMethods$Key: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class PublicMethods$MethodList: java.lang.AssertionError: assertion failed: denotation module class PublicMethods$MethodList$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Runtime$Version: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Runtime$VersionPattern: java.lang.AssertionError: assertion failed: denotation module class Runtime$VersionPattern$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class SecurityManager$1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class SecurityManager$2: java.lang.AssertionError: assertion failed: denotation module class SecurityManager$2$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Short$ShortCache: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Shutdown$Lock: java.lang.AssertionError: assertion failed: denotation module class Shutdown$Lock$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StackStreamFactory$1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StackStreamFactory$AbstractStackWalker: java.lang.AssertionError: assertion failed: denotation module class StackStreamFactory$AbstractStackWalker$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StackStreamFactory$CallerClassFinder$ClassBuffer: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.StackStreamFactory$FrameBuffer,
+outerName = java.lang.StackStreamFactory,
+innerName = FrameBuffer
+owner.fullName = StackStreamFactory
+while parsing /modules/java.base/java/lang/StackStreamFactory$CallerClassFinder$ClassBuffer.class
+exception caught when loading class StackStreamFactory$CallerClassFinder: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.StackStreamFactory$AbstractStackWalker,
+outerName = java.lang.StackStreamFactory,
+innerName = AbstractStackWalker
+owner.fullName = StackStreamFactory
+while parsing /modules/java.base/java/lang/StackStreamFactory$CallerClassFinder.class
+exception caught when loading class StackStreamFactory$FrameBuffer: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StackStreamFactory$LiveStackInfoTraverser$LiveStackFrameBuffer: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.StackStreamFactory$FrameBuffer,
+outerName = java.lang.StackStreamFactory,
+innerName = FrameBuffer
+owner.fullName = StackStreamFactory
+while parsing /modules/java.base/java/lang/StackStreamFactory$LiveStackInfoTraverser$LiveStackFrameBuffer.class
+exception caught when loading class StackStreamFactory$LiveStackInfoTraverser: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.StackStreamFactory$StackFrameTraverser,
+outerName = java.lang.StackStreamFactory,
+innerName = StackFrameTraverser
+owner.fullName = StackStreamFactory
+while parsing /modules/java.base/java/lang/StackStreamFactory$LiveStackInfoTraverser.class
+exception caught when loading class StackStreamFactory$StackFrameTraverser$StackFrameBuffer: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.StackStreamFactory$FrameBuffer,
+outerName = java.lang.StackStreamFactory,
+innerName = FrameBuffer
+owner.fullName = StackStreamFactory
+while parsing /modules/java.base/java/lang/StackStreamFactory$StackFrameTraverser$StackFrameBuffer.class
+exception caught when loading class StackStreamFactory$StackFrameTraverser: java.lang.AssertionError: assertion failed: failure to resolve inner class:
+externalName = java.lang.StackStreamFactory$AbstractStackWalker,
+outerName = java.lang.StackStreamFactory,
+innerName = AbstractStackWalker
+owner.fullName = StackStreamFactory
+while parsing /modules/java.base/java/lang/StackStreamFactory$StackFrameTraverser.class
+exception caught when loading class StackStreamFactory$WalkerState: java.lang.AssertionError: assertion failed: denotation module class StackStreamFactory$WalkerState$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StackTraceElement$HashedModules: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StackWalker$ExtendedOption: java.lang.AssertionError: assertion failed: denotation module class StackWalker$ExtendedOption$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StackWalker$Option: java.lang.AssertionError: assertion failed: denotation module class StackWalker$Option$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StackWalker$StackFrame: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StrictMath$RandomNumberGeneratorHolder: java.lang.AssertionError: assertion failed: denotation module class StrictMath$RandomNumberGeneratorHolder$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class String$CaseInsensitiveComparator: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading trait Spliterator: java.lang.AssertionError: assertion failed: denotation module class Spliterator$ invalid in run 3. ValidFor: Period(1..5, run = 4)
+exception caught when loading class StringLatin1$CharsSpliterator: java.lang.AssertionError: assertion failed: denotation module class Spliterator$ invalid in run 3. ValidFor: Period(1..5, run = 4)
+exception caught when loading class StringLatin1$LinesSpliterator: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class StringUTF16$CharsSpliterator: java.lang.AssertionError: assertion failed: denotation module class Spliterator$ invalid in run 3. ValidFor: Period(1..5, run = 4)
+exception caught when loading class StringUTF16$CodePointsSpliterator: java.lang.AssertionError: assertion failed: denotation module class Spliterator$ invalid in run 3. ValidFor: Period(1..5, run = 4)
+exception caught when loading class StringUTF16$LinesSpliterator: java.lang.AssertionError: assertion failed: denotation module class StringUTF16$LinesSpliterator$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class System$1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class System$2: java.lang.AssertionError: assertion failed: denotation module class System$2$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class System$CallersHolder: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class System$Logger$Level: java.lang.AssertionError: assertion failed: denotation module class System$Logger$Level$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class System$Logger: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class System$LoggerFinder: java.lang.AssertionError: assertion failed: denotation module class System$LoggerFinder$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Terminator$1: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Thread$1: java.lang.AssertionError: assertion failed: denotation module class Thread$1$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Thread$Caches: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Thread$State: java.lang.AssertionError: assertion failed: denotation module class Thread$State$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Thread$UncaughtExceptionHandler: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Thread$WeakClassKey: java.lang.AssertionError: assertion failed: denotation module class Thread$WeakClassKey$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ThreadLocal$SuppliedThreadLocal: java.lang.AssertionError: assertion failed: denotation module class ThreadLocal$SuppliedThreadLocal$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ThreadLocal$ThreadLocalMap$Entry: java.lang.AssertionError: assertion failed: denotation module class ThreadLocal$ThreadLocalMap$Entry$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class ThreadLocal$ThreadLocalMap: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Throwable$PrintStreamOrWriter: java.lang.AssertionError: assertion failed: denotation module class Throwable$PrintStreamOrWriter$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Throwable$SentinelHolder: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Throwable$WrappedPrintStream: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Throwable$WrappedPrintWriter: java.lang.AssertionError: assertion failed: denotation module class Throwable$WrappedPrintWriter$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class WeakPairMap$Pair$Lookup: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class WeakPairMap$Pair$Weak$1: java.lang.AssertionError: assertion failed: denotation module class WeakPairMap$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class WeakPairMap$Pair$Weak: java.lang.AssertionError: assertion failed: denotation module class WeakPairMap$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading trait WeakPairMap$Pair: java.lang.AssertionError: assertion failed: denotation module class WeakPairMap$Pair$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class WeakPairMap$WeakRefPeer: java.lang.AssertionError: assertion failed: denotation module class WeakPairMap$WeakRefPeer$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+May 25, 2024 8:30:15 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/.reports/metals-full/2024-05-25/r_compiler-error_08-30-15-234.md
+2024.05.25 08:30:15 INFO  [info] loading settings for project practical-fp-in-scala-handson-build from metals.sbt ...[0m
+2024.05.25 08:30:15 INFO  [info] loading project definition from /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project[0m
+2024.05.25 08:30:20 INFO  [success] Generated .bloop/practical-fp-in-scala-handson-build.json[0m
+2024.05.25 08:30:20 INFO  [success] Total time: 5 s, completed May 25, 2024, 8:30:21 AM[0m
+2024.05.25 08:30:21 ERROR /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/build.sbt:1: error: type mismatch;[0m
+2024.05.25 08:30:21 ERROR  found   : sbt.This.type[0m
+2024.05.25 08:30:21 ERROR  required: sbt.internal.DslEntry[0m
+2024.05.25 08:30:21 ERROR This[0m
+2024.05.25 08:30:21 ERROR ^[0m
+2024.05.25 08:30:20 INFO  [error] Type error in expression[0m
+2024.05.25 08:30:20 INFO  [warn] Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)[0m
+2024.05.25 08:30:21 INFO  time: ran 'sbt bloopInstall' in 21s[0m
+2024.05.25 08:30:21 ERROR sbt command failed: /Users/norihito.nakata/Library/Application Support/Coursier/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall[0m
+May 25, 2024 8:30:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36
+May 25, 2024 8:30:32 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/.reports/metals-full/2024-05-25/r_compiler-error_08-30-32-625.md
+May 25, 2024 8:30:32 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/.reports/metals-full/2024-05-25/r_compiler-error_08-30-32-911.md
+exception caught when loading class Tuple2$mcDJ$sp: java.lang.AssertionError: assertion failed: denotation trait Product2 invalid in run 1. ValidFor: Period(1..2, run = 3)
+exception caught when loading trait Product1$mcI$sp: java.lang.AssertionError: assertion failed: denotation module class Product1$mcI$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Product1$mcD$sp: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcJZ$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcJZ$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcCZ$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcCZ$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcIC$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcIC$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Product2$mcII$sp: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcII$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcII$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Product1$mcJ$sp: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading trait Product2$mcJJ$sp: java.lang.AssertionError: assertion failed: denotation module class Product2$mcJJ$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Product2$mcDI$sp: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcZC$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcZC$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcJJ$sp: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcDI$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcDI$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Product2$mcIJ$sp: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple1$mcI$sp: java.lang.AssertionError: assertion failed: denotation trait Product1 invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcIJ$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcIJ$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcID$sp: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading trait Product2$mcID$sp: java.lang.AssertionError: assertion failed: denotation module class Product2$mcID$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcCJ$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcCJ$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcDC$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcDC$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Product2$mcJI$sp: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcJD$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcJD$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Product2$mcJD$sp: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcJI$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcJI$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcDZ$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcDZ$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcCI$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcCI$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcZZ$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcZZ$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcIZ$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcIZ$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcCD$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcCD$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcDD$sp: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcJC$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcJC$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple1$mcD$sp: java.lang.AssertionError: assertion failed: denotation trait Product1 invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcZJ$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcZJ$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple1$mcJ$sp: java.lang.AssertionError: assertion failed: denotation trait Product1 invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Product2$mcDD$sp: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcZD$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcZD$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+May 25, 2024 8:30:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/.reports/metals-full/2024-05-25/r_compiler-error_08-30-33-932.md
+exception caught when loading class Tuple2$mcZI$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcZI$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Product2$mcDJ$sp: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcCC$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcCC$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcDJ$sp: java.lang.AssertionError: assertion failed: denotation trait Product2 invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Product1$mcI$sp: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading trait Product1$mcD$sp: java.lang.AssertionError: assertion failed: denotation module class Product1$mcD$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcJZ$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcJZ$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcCZ$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcCZ$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcIC$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcIC$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Product2$mcII$sp: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcII$sp: java.lang.AssertionError: assertion failed: denotation trait Product2 invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading trait Product1$mcJ$sp: java.lang.AssertionError: assertion failed: denotation module class Product1$mcJ$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Product2$mcJJ$sp: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading trait Product2$mcDI$sp: java.lang.AssertionError: assertion failed: denotation module class Product2$mcDI$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcZC$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcZC$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcJJ$sp: java.lang.AssertionError: assertion failed: denotation trait Product2 invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcDI$sp: java.lang.AssertionError: assertion failed: denotation trait Product2 invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Product2$mcIJ$sp: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple1$mcI$sp: java.lang.AssertionError: assertion failed: denotation trait Product1 invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcIJ$sp: java.lang.AssertionError: assertion failed: denotation trait Product2 invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcID$sp: java.lang.AssertionError: assertion failed: denotation trait Product2 invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading trait Product2$mcID$sp: java.lang.AssertionError: assertion failed: denotation module class Product2$mcID$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcCJ$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcCJ$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcDC$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcDC$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Product2$mcJI$sp: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcJD$sp: java.lang.AssertionError: assertion failed: denotation trait Product2 invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading trait Product2$mcJD$sp: java.lang.AssertionError: assertion failed: denotation module class Product2$mcJD$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcJI$sp: java.lang.AssertionError: assertion failed: denotation trait Product2 invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcDZ$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcDZ$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcCI$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcCI$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcZZ$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcZZ$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcIZ$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcIZ$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcCD$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcCD$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcDD$sp: java.lang.AssertionError: assertion failed: denotation trait Product2 invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcJC$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcJC$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple1$mcD$sp: java.lang.AssertionError: assertion failed: denotation trait Product1 invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcZJ$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcZJ$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple1$mcJ$sp: java.lang.AssertionError: assertion failed: denotation trait Product1 invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Product2$mcDD$sp: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class Tuple2$mcZD$sp: java.lang.AssertionError: assertion failed: denotation module class Tuple2$mcZD$sp$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+May 25, 2024 8:30:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/.reports/metals-full/2024-05-25/r_compiler-error_08-30-34-374.md
+java.lang.AssertionError: assertion failed: denotation class capability invalid in run 7. ValidFor: Period(1..5, run = 8)
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:8)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.updateValidity(Denotations.scala:717)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.bringForward(Denotations.scala:742)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.toNewRun$1(Denotations.scala:799)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.current(Denotations.scala:870)
+	at dotty.tools.dotc.core.Symbols$Symbol.recomputeDenot(Symbols.scala:120)
+	at dotty.tools.dotc.core.Symbols$Symbol.computeDenot(Symbols.scala:114)
+	at dotty.tools.dotc.core.Symbols$Symbol.denot(Symbols.scala:107)
+	at dotty.tools.dotc.core.Symbols$ClassSymbol.classDenot(Symbols.scala:481)
+	at dotty.tools.dotc.core.Symbols$.toClassDenot(Symbols.scala:497)
+	at dotty.tools.dotc.core.TypeErasure$.normalizeClass(TypeErasure.scala:109)
+	at dotty.tools.dotc.core.TypeErasure.dotty$tools$dotc$core$TypeErasure$$sigName(TypeErasure.scala:911)
+	at dotty.tools.dotc.core.TypeErasure$.sigName(TypeErasure.scala:235)
+	at dotty.tools.dotc.core.Signature$.apply(Signature.scala:167)
+	at dotty.tools.dotc.core.Types$MethodOrPoly.computeSignature$2(Types.scala:3760)
+	at dotty.tools.dotc.core.Types$MethodOrPoly.signature(Types.scala:3785)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.signature(Denotations.scala:617)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.signature(Denotations.scala:607)
+	at dotty.tools.dotc.core.Symbols$Symbol.signature(Symbols.scala:195)
+	at scala.meta.internal.pc.SemanticdbSymbols$.addOverloadIdx$1(SemanticdbSymbols.scala:153)
+	at scala.meta.internal.pc.SemanticdbSymbols$.addDescriptor$1(SemanticdbSymbols.scala:174)
+	at scala.meta.internal.pc.SemanticdbSymbols$.addSymName(SemanticdbSymbols.scala:178)
+	at scala.meta.internal.pc.SemanticdbSymbols$.symbolName(SemanticdbSymbols.scala:116)
+	at scala.meta.internal.pc.completions.Completions.visit$4(Completions.scala:677)
+	at scala.meta.internal.pc.completions.Completions.$anonfun$9(Completions.scala:707)
+	at scala.collection.immutable.List.map(List.scala:250)
+	at scala.meta.internal.pc.completions.Completions.$anonfun$5(Completions.scala:602)
+	at scala.collection.immutable.List.filter(List.scala:515)
+	at scala.meta.internal.pc.CompilerSearchVisitor.visitClassfile(CompilerSearchVisitor.scala:81)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5(ClasspathSearch.scala:50)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5$adapted(ClasspathSearch.scala:40)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.ClasspathSearch.search(ClasspathSearch.scala:40)
+	at scala.meta.internal.metals.StandaloneSymbolSearch.search(StandaloneSymbolSearch.scala:105)
+	at scala.meta.internal.pc.completions.Completions.enrichWithSymbolSearch(Completions.scala:605)
+	at scala.meta.internal.pc.completions.Completions.filterInteresting(Completions.scala:707)
+	at scala.meta.internal.pc.completions.Completions.completions(Completions.scala:204)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:86)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.complete$$anonfun$1(ScalaPresentationCompiler.scala:147)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:156)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$1(CompilerAccess.scala:102)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:245)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+no sig for TypeRef(ThisType(TypeRef(NoPrefix,module class annotation)),class capability) because of ()
+May 25, 2024 8:31:07 AM scala.meta.internal.pc.CompilerSearchVisitor visitClassfile
+WARNING: assertion failed: denotation class capability invalid in run 7. ValidFor: Period(1..5, run = 8)
+java.lang.AssertionError: assertion failed: denotation class capability invalid in run 7. ValidFor: Period(1..5, run = 8)
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:8)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.updateValidity(Denotations.scala:717)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.bringForward(Denotations.scala:742)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.toNewRun$1(Denotations.scala:799)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.current(Denotations.scala:870)
+	at dotty.tools.dotc.core.Symbols$Symbol.recomputeDenot(Symbols.scala:120)
+	at dotty.tools.dotc.core.Symbols$Symbol.computeDenot(Symbols.scala:114)
+	at dotty.tools.dotc.core.Symbols$Symbol.denot(Symbols.scala:107)
+	at dotty.tools.dotc.core.Symbols$ClassSymbol.classDenot(Symbols.scala:481)
+	at dotty.tools.dotc.core.Symbols$.toClassDenot(Symbols.scala:497)
+	at dotty.tools.dotc.core.TypeErasure$.normalizeClass(TypeErasure.scala:109)
+	at dotty.tools.dotc.core.TypeErasure.dotty$tools$dotc$core$TypeErasure$$sigName(TypeErasure.scala:911)
+	at dotty.tools.dotc.core.TypeErasure$.sigName(TypeErasure.scala:235)
+	at dotty.tools.dotc.core.Signature$.apply(Signature.scala:167)
+	at dotty.tools.dotc.core.Types$MethodOrPoly.computeSignature$2(Types.scala:3760)
+	at dotty.tools.dotc.core.Types$MethodOrPoly.signature(Types.scala:3785)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.signature(Denotations.scala:617)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.signature(Denotations.scala:607)
+	at dotty.tools.dotc.core.Symbols$Symbol.signature(Symbols.scala:195)
+	at scala.meta.internal.pc.SemanticdbSymbols$.addOverloadIdx$1(SemanticdbSymbols.scala:153)
+	at scala.meta.internal.pc.SemanticdbSymbols$.addDescriptor$1(SemanticdbSymbols.scala:174)
+	at scala.meta.internal.pc.SemanticdbSymbols$.addSymName(SemanticdbSymbols.scala:178)
+	at scala.meta.internal.pc.SemanticdbSymbols$.symbolName(SemanticdbSymbols.scala:116)
+	at scala.meta.internal.pc.completions.Completions.visit$4(Completions.scala:677)
+	at scala.meta.internal.pc.completions.Completions.$anonfun$9(Completions.scala:707)
+	at scala.collection.immutable.List.map(List.scala:250)
+	at scala.meta.internal.pc.completions.Completions.$anonfun$5(Completions.scala:602)
+	at scala.collection.immutable.List.filter(List.scala:515)
+	at scala.meta.internal.pc.CompilerSearchVisitor.visitClassfile(CompilerSearchVisitor.scala:81)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5(ClasspathSearch.scala:50)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5$adapted(ClasspathSearch.scala:40)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.ClasspathSearch.search(ClasspathSearch.scala:40)
+	at scala.meta.internal.metals.StandaloneSymbolSearch.search(StandaloneSymbolSearch.scala:105)
+	at scala.meta.internal.pc.completions.Completions.enrichWithSymbolSearch(Completions.scala:605)
+	at scala.meta.internal.pc.completions.Completions.filterInteresting(Completions.scala:707)
+	at scala.meta.internal.pc.completions.Completions.completions(Completions.scala:204)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:86)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.complete$$anonfun$1(ScalaPresentationCompiler.scala:147)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:156)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$1(CompilerAccess.scala:102)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:245)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+May 25, 2024 8:31:07 AM scala.meta.internal.pc.CompilerSearchVisitor visitClassfile
+WARNING: assertion failed: denotation module class package$ invalid in run 7. ValidFor: Period(1..5, run = 8)
+java.lang.AssertionError: assertion failed: denotation module class package$ invalid in run 7. ValidFor: Period(1..5, run = 8)
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:8)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.updateValidity(Denotations.scala:717)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.bringForward(Denotations.scala:742)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.toNewRun$1(Denotations.scala:799)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.current(Denotations.scala:870)
+	at dotty.tools.dotc.core.Symbols$Symbol.recomputeDenot(Symbols.scala:120)
+	at dotty.tools.dotc.core.Symbols$Symbol.computeDenot(Symbols.scala:114)
+	at dotty.tools.dotc.core.Symbols$Symbol.denot(Symbols.scala:107)
+	at dotty.tools.dotc.core.Symbols$ClassSymbol.classDenot(Symbols.scala:481)
+	at dotty.tools.dotc.core.Symbols$.toClassDenot(Symbols.scala:497)
+	at dotty.tools.dotc.core.unpickleScala2.Scala2Unpickler$.setClassInfo(Scala2Unpickler.scala:115)
+	at dotty.tools.dotc.core.unpickleScala2.Scala2Unpickler$LocalUnpickler.parseToCompletion$1(Scala2Unpickler.scala:615)
+	at dotty.tools.dotc.core.unpickleScala2.Scala2Unpickler$LocalUnpickler.complete$$anonfun$1(Scala2Unpickler.scala:645)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at dotty.tools.dotc.core.unpickleScala2.Scala2Unpickler.atReadPos(Scala2Unpickler.scala:318)
+	at dotty.tools.dotc.core.unpickleScala2.Scala2Unpickler$LocalUnpickler.complete(Scala2Unpickler.scala:647)
+	at dotty.tools.dotc.core.SymDenotations$SymDenotation.completeFrom(SymDenotations.scala:174)
+	at dotty.tools.dotc.core.Denotations$Denotation.completeInfo$1(Denotations.scala:187)
+	at dotty.tools.dotc.core.Denotations$Denotation.info(Denotations.scala:189)
+	at dotty.tools.dotc.core.Denotations$Denotation.completeInfo$1(Denotations.scala:187)
+	at dotty.tools.dotc.core.Denotations$Denotation.info(Denotations.scala:189)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.computeMembersNamed(SymDenotations.scala:2145)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2115)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamedNoShadowingBasedOnFlags(SymDenotations.scala:2138)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.nonPrivateMembersNamed(SymDenotations.scala:2128)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$5(SymDenotations.scala:2497)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2564)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2115)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2166)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:721)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:900)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:704)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:688)
+	at scala.meta.internal.pc.CompilerSearchVisitor.$anonfun$1(CompilerSearchVisitor.scala:56)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.CompilerSearchVisitor.loop$1(CompilerSearchVisitor.scala:63)
+	at scala.meta.internal.pc.CompilerSearchVisitor.toSymbols(CompilerSearchVisitor.scala:69)
+	at scala.meta.internal.pc.CompilerSearchVisitor.visitClassfile(CompilerSearchVisitor.scala:81)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5(ClasspathSearch.scala:50)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5$adapted(ClasspathSearch.scala:40)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.ClasspathSearch.search(ClasspathSearch.scala:40)
+	at scala.meta.internal.metals.StandaloneSymbolSearch.search(StandaloneSymbolSearch.scala:105)
+	at scala.meta.internal.pc.completions.Completions.enrichWithSymbolSearch(Completions.scala:605)
+	at scala.meta.internal.pc.completions.Completions.filterInteresting(Completions.scala:707)
+	at scala.meta.internal.pc.completions.Completions.completions(Completions.scala:204)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:86)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.complete$$anonfun$1(ScalaPresentationCompiler.scala:147)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:156)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$1(CompilerAccess.scala:102)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:245)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+May 25, 2024 8:31:07 AM scala.meta.internal.pc.CompilerSearchVisitor isAccessible
+WARNING: assertion failed: denotation class compileTimeOnly invalid in run 7. ValidFor: Period(1..5, run = 8)
+May 25, 2024 8:31:07 AM scala.meta.internal.pc.CompilerSearchVisitor isAccessible
+WARNING: assertion failed: denotation class compileTimeOnly invalid in run 7. ValidFor: Period(1..5, run = 8)
+java.lang.AssertionError: assertion failed: denotation class constructorOnly invalid in run 7. ValidFor: Period(1..5, run = 8)
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:8)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.updateValidity(Denotations.scala:717)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.bringForward(Denotations.scala:742)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.toNewRun$1(Denotations.scala:799)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.current(Denotations.scala:870)
+	at dotty.tools.dotc.core.Symbols$Symbol.recomputeDenot(Symbols.scala:120)
+	at dotty.tools.dotc.core.Symbols$Symbol.computeDenot(Symbols.scala:114)
+	at dotty.tools.dotc.core.Symbols$Symbol.denot(Symbols.scala:107)
+	at dotty.tools.dotc.core.Symbols$ClassSymbol.classDenot(Symbols.scala:481)
+	at dotty.tools.dotc.core.Symbols$.toClassDenot(Symbols.scala:497)
+	at dotty.tools.dotc.core.TypeErasure$.normalizeClass(TypeErasure.scala:109)
+	at dotty.tools.dotc.core.TypeErasure.dotty$tools$dotc$core$TypeErasure$$sigName(TypeErasure.scala:911)
+	at dotty.tools.dotc.core.TypeErasure$.sigName(TypeErasure.scala:235)
+	at dotty.tools.dotc.core.Signature$.apply(Signature.scala:167)
+	at dotty.tools.dotc.core.Types$MethodOrPoly.computeSignature$2(Types.scala:3760)
+	at dotty.tools.dotc.core.Types$MethodOrPoly.signature(Types.scala:3785)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.signature(Denotations.scala:617)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.signature(Denotations.scala:607)
+	at dotty.tools.dotc.core.Symbols$Symbol.signature(Symbols.scala:195)
+	at scala.meta.internal.pc.SemanticdbSymbols$.addOverloadIdx$1(SemanticdbSymbols.scala:153)
+	at scala.meta.internal.pc.SemanticdbSymbols$.addDescriptor$1(SemanticdbSymbols.scala:174)
+	at scala.meta.internal.pc.SemanticdbSymbols$.addSymName(SemanticdbSymbols.scala:178)
+	at scala.meta.internal.pc.SemanticdbSymbols$.symbolName(SemanticdbSymbols.scala:116)
+	at scala.meta.internal.pc.completions.Completions.visit$4(Completions.scala:677)
+	at scala.meta.internal.pc.completions.Completions.$anonfun$9(Completions.scala:707)
+	at scala.collection.immutable.List.map(List.scala:250)
+	at scala.meta.internal.pc.completions.Completions.$anonfun$5(Completions.scala:602)
+	at scala.collection.immutable.List.filter(List.scala:515)
+	at scala.meta.internal.pc.CompilerSearchVisitor.visitClassfile(CompilerSearchVisitor.scala:81)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5(ClasspathSearch.scala:50)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5$adapted(ClasspathSearch.scala:40)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.ClasspathSearch.search(ClasspathSearch.scala:40)
+	at scala.meta.internal.metals.StandaloneSymbolSearch.search(StandaloneSymbolSearch.scala:105)
+	at scala.meta.internal.pc.completions.Completions.enrichWithSymbolSearch(Completions.scala:605)
+	at scala.meta.internal.pc.completions.Completions.filterInteresting(Completions.scala:707)
+	at scala.meta.internal.pc.completions.Completions.completions(Completions.scala:204)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:86)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.complete$$anonfun$1(ScalaPresentationCompiler.scala:147)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:156)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$1(CompilerAccess.scala:102)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:245)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+no sig for TypeRef(ThisType(TypeRef(NoPrefix,module class annotation)),class constructorOnly) because of ()
+May 25, 2024 8:31:07 AM scala.meta.internal.pc.CompilerSearchVisitor visitClassfile
+WARNING: assertion failed: denotation class constructorOnly invalid in run 7. ValidFor: Period(1..5, run = 8)
+java.lang.AssertionError: assertion failed: denotation class constructorOnly invalid in run 7. ValidFor: Period(1..5, run = 8)
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:8)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.updateValidity(Denotations.scala:717)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.bringForward(Denotations.scala:742)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.toNewRun$1(Denotations.scala:799)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.current(Denotations.scala:870)
+	at dotty.tools.dotc.core.Symbols$Symbol.recomputeDenot(Symbols.scala:120)
+	at dotty.tools.dotc.core.Symbols$Symbol.computeDenot(Symbols.scala:114)
+	at dotty.tools.dotc.core.Symbols$Symbol.denot(Symbols.scala:107)
+	at dotty.tools.dotc.core.Symbols$ClassSymbol.classDenot(Symbols.scala:481)
+	at dotty.tools.dotc.core.Symbols$.toClassDenot(Symbols.scala:497)
+	at dotty.tools.dotc.core.TypeErasure$.normalizeClass(TypeErasure.scala:109)
+	at dotty.tools.dotc.core.TypeErasure.dotty$tools$dotc$core$TypeErasure$$sigName(TypeErasure.scala:911)
+	at dotty.tools.dotc.core.TypeErasure$.sigName(TypeErasure.scala:235)
+	at dotty.tools.dotc.core.Signature$.apply(Signature.scala:167)
+	at dotty.tools.dotc.core.Types$MethodOrPoly.computeSignature$2(Types.scala:3760)
+	at dotty.tools.dotc.core.Types$MethodOrPoly.signature(Types.scala:3785)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.signature(Denotations.scala:617)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.signature(Denotations.scala:607)
+	at dotty.tools.dotc.core.Symbols$Symbol.signature(Symbols.scala:195)
+	at scala.meta.internal.pc.SemanticdbSymbols$.addOverloadIdx$1(SemanticdbSymbols.scala:153)
+	at scala.meta.internal.pc.SemanticdbSymbols$.addDescriptor$1(SemanticdbSymbols.scala:174)
+	at scala.meta.internal.pc.SemanticdbSymbols$.addSymName(SemanticdbSymbols.scala:178)
+	at scala.meta.internal.pc.SemanticdbSymbols$.symbolName(SemanticdbSymbols.scala:116)
+	at scala.meta.internal.pc.completions.Completions.visit$4(Completions.scala:677)
+	at scala.meta.internal.pc.completions.Completions.$anonfun$9(Completions.scala:707)
+	at scala.collection.immutable.List.map(List.scala:250)
+	at scala.meta.internal.pc.completions.Completions.$anonfun$5(Completions.scala:602)
+	at scala.collection.immutable.List.filter(List.scala:515)
+	at scala.meta.internal.pc.CompilerSearchVisitor.visitClassfile(CompilerSearchVisitor.scala:81)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5(ClasspathSearch.scala:50)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5$adapted(ClasspathSearch.scala:40)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.ClasspathSearch.search(ClasspathSearch.scala:40)
+	at scala.meta.internal.metals.StandaloneSymbolSearch.search(StandaloneSymbolSearch.scala:105)
+	at scala.meta.internal.pc.completions.Completions.enrichWithSymbolSearch(Completions.scala:605)
+	at scala.meta.internal.pc.completions.Completions.filterInteresting(Completions.scala:707)
+	at scala.meta.internal.pc.completions.Completions.completions(Completions.scala:204)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:86)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.complete$$anonfun$1(ScalaPresentationCompiler.scala:147)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:156)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$1(CompilerAccess.scala:102)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:245)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+May 25, 2024 8:31:07 AM scala.meta.internal.pc.CompilerSearchVisitor isAccessible
+WARNING: assertion failed: denotation class companionMethod invalid in run 7. ValidFor: Period(1..5, run = 8)
+May 25, 2024 8:31:07 AM scala.meta.internal.pc.CompilerSearchVisitor isAccessible
+WARNING: assertion failed: denotation class companionMethod invalid in run 7. ValidFor: Period(1..5, run = 8)
+May 25, 2024 8:31:07 AM scala.meta.internal.pc.CompilerSearchVisitor isAccessible
+WARNING: assertion failed: denotation class companionObject invalid in run 7. ValidFor: Period(1..5, run = 8)
+May 25, 2024 8:31:07 AM scala.meta.internal.pc.CompilerSearchVisitor isAccessible
+WARNING: assertion failed: denotation class companionObject invalid in run 7. ValidFor: Period(1..5, run = 8)
+May 25, 2024 8:31:07 AM scala.meta.internal.pc.CompilerSearchVisitor visitClassfile
+WARNING: assertion failed: denotation class Object invalid in run 7. ValidFor: Period(1..2, run = 8)
+java.lang.AssertionError: assertion failed: denotation class Object invalid in run 7. ValidFor: Period(1..2, run = 8)
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:8)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.updateValidity(Denotations.scala:717)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.bringForward(Denotations.scala:742)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.toNewRun$1(Denotations.scala:799)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.current(Denotations.scala:870)
+	at dotty.tools.dotc.core.Symbols$Symbol.recomputeDenot(Symbols.scala:120)
+	at dotty.tools.dotc.core.Symbols$Symbol.computeDenot(Symbols.scala:114)
+	at dotty.tools.dotc.core.Symbols$Symbol.denot(Symbols.scala:107)
+	at dotty.tools.dotc.core.Symbols$.toDenot(Symbols.scala:494)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.updateValidity(Denotations.scala:716)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.bringForward(Denotations.scala:742)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.toNewRun$1(Denotations.scala:799)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.current(Denotations.scala:870)
+	at dotty.tools.dotc.core.Types$NamedType.computeDenot(Types.scala:2391)
+	at dotty.tools.dotc.core.Types$NamedType.denot(Types.scala:2351)
+	at dotty.tools.dotc.core.Types$NamedType.computeSymbol(Types.scala:2308)
+	at dotty.tools.dotc.core.Types$NamedType.symbol(Types.scala:2301)
+	at dotty.tools.dotc.core.Types$Type.classSymbol(Types.scala:533)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.collect$1(SymDenotations.scala:2155)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.addInherited(SymDenotations.scala:2163)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.computeMembersNamed(SymDenotations.scala:2148)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2115)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2166)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:721)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:900)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:704)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:688)
+	at scala.meta.internal.pc.CompilerSearchVisitor.$anonfun$1(CompilerSearchVisitor.scala:56)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.CompilerSearchVisitor.loop$1(CompilerSearchVisitor.scala:63)
+	at scala.meta.internal.pc.CompilerSearchVisitor.toSymbols(CompilerSearchVisitor.scala:69)
+	at scala.meta.internal.pc.CompilerSearchVisitor.visitClassfile(CompilerSearchVisitor.scala:81)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5(ClasspathSearch.scala:50)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5$adapted(ClasspathSearch.scala:40)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.ClasspathSearch.search(ClasspathSearch.scala:40)
+	at scala.meta.internal.metals.StandaloneSymbolSearch.search(StandaloneSymbolSearch.scala:105)
+	at scala.meta.internal.pc.completions.Completions.enrichWithSymbolSearch(Completions.scala:605)
+	at scala.meta.internal.pc.completions.Completions.filterInteresting(Completions.scala:707)
+	at scala.meta.internal.pc.completions.Completions.completions(Completions.scala:204)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:86)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.complete$$anonfun$1(ScalaPresentationCompiler.scala:147)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:156)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$1(CompilerAccess.scala:102)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:245)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+May 25, 2024 8:31:07 AM scala.meta.internal.pc.CompilerSearchVisitor visitClassfile
+WARNING: assertion failed: denotation class Object invalid in run 7. ValidFor: Period(1..2, run = 8)
+java.lang.AssertionError: assertion failed: denotation class Object invalid in run 7. ValidFor: Period(1..2, run = 8)
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:8)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.updateValidity(Denotations.scala:717)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.bringForward(Denotations.scala:742)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.toNewRun$1(Denotations.scala:799)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.current(Denotations.scala:870)
+	at dotty.tools.dotc.core.Types$NamedType.computeDenot(Types.scala:2391)
+	at dotty.tools.dotc.core.Types$NamedType.denot(Types.scala:2351)
+	at dotty.tools.dotc.core.Types$NamedType.computeSymbol(Types.scala:2308)
+	at dotty.tools.dotc.core.Types$NamedType.symbol(Types.scala:2301)
+	at dotty.tools.dotc.core.Types$Type.classSymbol(Types.scala:533)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.collect$1(SymDenotations.scala:2155)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.addInherited(SymDenotations.scala:2163)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.computeMembersNamed(SymDenotations.scala:2148)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2115)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2166)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:721)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:900)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:704)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:688)
+	at scala.meta.internal.pc.CompilerSearchVisitor.$anonfun$1(CompilerSearchVisitor.scala:56)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.CompilerSearchVisitor.loop$1(CompilerSearchVisitor.scala:63)
+	at scala.meta.internal.pc.CompilerSearchVisitor.toSymbols(CompilerSearchVisitor.scala:69)
+	at scala.meta.internal.pc.CompilerSearchVisitor.visitClassfile(CompilerSearchVisitor.scala:81)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5(ClasspathSearch.scala:50)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5$adapted(ClasspathSearch.scala:40)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.ClasspathSearch.search(ClasspathSearch.scala:40)
+	at scala.meta.internal.metals.StandaloneSymbolSearch.search(StandaloneSymbolSearch.scala:105)
+	at scala.meta.internal.pc.completions.Completions.enrichWithSymbolSearch(Completions.scala:605)
+	at scala.meta.internal.pc.completions.Completions.filterInteresting(Completions.scala:707)
+	at scala.meta.internal.pc.completions.Completions.completions(Completions.scala:204)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:86)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.complete$$anonfun$1(ScalaPresentationCompiler.scala:147)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:156)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$1(CompilerAccess.scala:102)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:245)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+May 25, 2024 8:31:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/.reports/metals-full/2024-05-25/r_compiler-error_08-31-07-514.md
+May 25, 2024 8:31:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/.reports/metals-full/2024-05-25/r_compiler-error_08-31-07-914.md
+May 25, 2024 8:31:08 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/.reports/metals-full/2024-05-25/r_compiler-error_08-31-08-483.md
+exception caught when loading class WeakPairMap$Pair$Weak: java.lang.AssertionError: assertion failed: denotation class Object invalid in run 1. ValidFor: Period(1..2, run = 3)
+exception caught when loading trait WeakPairMap$Pair: java.lang.AssertionError: assertion failed: denotation module class WeakPairMap$Pair$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+exception caught when loading class WeakPairMap$WeakRefPeer: java.lang.AssertionError: assertion failed: denotation module class WeakPairMap$WeakRefPeer$ invalid in run 3. ValidFor: Period(1..2, run = 4)
+May 25, 2024 8:31:08 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/.reports/metals-full/2024-05-25/r_compiler-error_08-31-08-855.md
+May 25, 2024 8:31:09 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/.reports/metals-full/2024-05-25/r_compiler-error_08-31-09-163.md
+2024.05.25 08:32:13 WARN  no build target for: /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/build.sbt[0m
+2024.05.25 08:32:15 INFO  running '/Users/norihito.nakata/Library/Application Support/Coursier/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2024.05.25 08:32:17 INFO  [info] welcome to sbt 1.10.0 (Eclipse Adoptium Java 17)[0m
+2024.05.25 08:32:20 INFO  [info] loading global plugins from /Users/norihito.nakata/.sbt/1.0/plugins[0m
+2024.05.25 08:32:22 INFO  [info] loading settings for project practical-fp-in-scala-handson-build-build from metals.sbt ...[0m
+2024.05.25 08:32:22 INFO  [info] loading project definition from /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project/project[0m
+2024.05.25 08:32:23 INFO  [info] loading settings for project practical-fp-in-scala-handson-build from metals.sbt ...[0m
+2024.05.25 08:32:23 INFO  [info] loading project definition from /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project[0m
+2024.05.25 08:32:27 INFO  [success] Generated .bloop/practical-fp-in-scala-handson-build.json[0m
+2024.05.25 08:32:27 INFO  [success] Total time: 4 s, completed May 25, 2024, 8:32:27 AM[0m
+2024.05.25 08:32:32 INFO  [info] loading settings for project root from build.sbt ...[0m
+2024.05.25 08:32:32 INFO  [info] set current project to minimal (in build file:/Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/)[0m
+2024.05.25 08:32:34 WARN  no build target for: /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/build.sbt[0m
+2024.05.25 08:32:39 INFO  [success] Generated .bloop/root-test.json[0m
+2024.05.25 08:32:39 INFO  [success] Generated .bloop/root.json[0m
+2024.05.25 08:32:39 INFO  [success] Total time: 6 s, completed May 25, 2024, 8:32:39 AM[0m
+2024.05.25 08:32:39 INFO  time: ran 'sbt bloopInstall' in 24s[0m
+2024.05.25 08:32:39 INFO  Attempting to connect to the build server...[0m
+2024.05.25 08:32:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/bsp.trace.json or /Users/norihito.nakata/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.05.25 08:32:48 INFO  Attempting to connect to the build server...[0m
+2024.05.25 08:32:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project/.metals/bsp.trace.json or /Users/norihito.nakata/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.05.25 08:32:48 INFO  time: Connected to build server in 9.22s[0m
+2024.05.25 08:32:48 INFO  Connected to Build server: Bloop v1.5.17[0m
+2024.05.25 08:32:49 INFO  time: Imported build in 0.28s[0m
+2024.05.25 08:32:49 WARN  2.13.5 is no longer supported in the current Metals versions, using the last known supported version 1.2.2[0m
+2024.05.25 08:32:49 WARN  Unable to run doctor. Make sure `isHttpEnabled` is set to `true`.[0m
+2024.05.25 08:33:00 INFO  time: indexed workspace in 11s[0m
+2024.05.25 08:33:11 INFO  skipping build import with status 'Installed'[0m
+2024.05.25 08:33:11 INFO  Disconnecting from Bloop session...[0m
+2024.05.25 08:33:11 INFO  Shut down connection with build server.[0m
+2024.05.25 08:33:11 INFO  Shut down connection with build server.[0m
+2024.05.25 08:33:11 INFO  Attempting to connect to the build server...[0m
+2024.05.25 08:33:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/bsp.trace.json or /Users/norihito.nakata/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.05.25 08:33:11 INFO  Attempting to connect to the build server...[0m
+2024.05.25 08:33:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project/.metals/bsp.trace.json or /Users/norihito.nakata/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.05.25 08:33:11 INFO  time: Connected to build server in 0.18s[0m
+2024.05.25 08:33:11 INFO  Connected to Build server: Bloop v1.5.17[0m
+2024.05.25 08:33:11 INFO  time: Imported build in 0.15s[0m
+2024.05.25 08:33:13 WARN  Unable to run doctor. Make sure `isHttpEnabled` is set to `true`.[0m
+2024.05.25 08:33:19 INFO  time: indexed workspace in 7.8s[0m
+2024.05.25 08:33:26 WARN  Unable to run doctor. Make sure `isHttpEnabled` is set to `true`.[0m
+error: /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/.tmp/.metals/.tmp/Main3322285504111797626.scala is not a file
+2024.05.25 08:33:47 WARN  Could not calculate checksum for sbt in /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson[0m
+2024.05.25 08:33:47 INFO  Disconnecting from Bloop session...[0m
+2024.05.25 08:33:47 INFO  Cancelling compilation on Bloop server[0m
+2024.05.25 08:33:47 INFO  Shut down connection with build server.[0m
+2024.05.25 08:33:47 INFO  Shut down connection with build server.[0m
+May 25, 2024 8:33:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+INFO: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.nio.channels.AsynchronousCloseException
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:126)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.sendCancelNotification(RemoteEndpoint.java:180)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint$1.cancel(RemoteEndpoint.java:150)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.$anonfun$cancel$1(FutureWithTimeout.scala:37)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17)
+	at scala.util.Try$.apply(Try.scala:217)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.cancel(FutureWithTimeout.scala:37)
+	at scala.meta.internal.metals.Cancelable$.$anonfun$cancelAll$1(Cancelable.scala:29)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at scala.meta.internal.metals.Cancelable$.cancelAll(Cancelable.scala:28)
+	at scala.meta.internal.metals.MutableCancelable.cancel(MutableCancelable.scala:25)
+	at scala.meta.internal.metals.utils.RequestRegistry.cancel(RequestRegistry.scala:94)
+	at scala.meta.internal.metals.BuildServerConnection.cancel(BuildServerConnection.scala:411)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:175)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:167)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.nio.channels.AsynchronousCloseException
+	at java.base/java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:202)
+	at java.base/sun.nio.ch.SinkChannelImpl.endWrite(SinkChannelImpl.java:263)
+	at java.base/sun.nio.ch.SinkChannelImpl.write(SinkChannelImpl.java:285)
+	at java.base/java.nio.channels.Channels.writeFullyImpl(Channels.java:74)
+	at java.base/java.nio.channels.Channels.writeFully(Channels.java:93)
+	at java.base/java.nio.channels.Channels$1.write(Channels.java:171)
+	at java.base/java.io.OutputStream.write(OutputStream.java:127)
+	at java.base/java.nio.channels.Channels$1.write(Channels.java:151)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:137)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:108)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 19 more
+
+2024.05.25 08:33:47 INFO  Attempting to connect to the build server...[0m
+2024.05.25 08:33:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/bsp.trace.json or /Users/norihito.nakata/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.05.25 08:33:47 INFO  time: Connected to build server in 85ms[0m
+2024.05.25 08:33:47 INFO  Connected to Build server: Bloop v1.5.17[0m
+May 25, 2024 8:33:49 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/.reports/metals-full/2024-05-25/r_compiler-error_(practical-fp-in-scala-handson-build)_08-33-49-733.md
+2024.05.25 08:33:49 WARN  Unable to run doctor. Make sure `isHttpEnabled` is set to `true`.[0m
+2024.05.25 08:33:54 INFO  time: indexed workspace in 6.14s[0m
+2024.05.25 08:33:54 WARN  no build target for: /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/build.sbt[0m
+2024.05.25 08:35:11 WARN  no build target for: /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/build.sbt[0m
+2024.05.25 08:35:12 INFO  running '/Users/norihito.nakata/Library/Application Support/Coursier/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2024.05.25 08:35:15 INFO  [info] welcome to sbt 1.10.0 (Eclipse Adoptium Java 17)[0m
+2024.05.25 08:35:18 INFO  [info] loading global plugins from /Users/norihito.nakata/.sbt/1.0/plugins[0m
+2024.05.25 08:35:19 INFO  [info] loading settings for project practical-fp-in-scala-handson-build-build from metals.sbt ...[0m
+2024.05.25 08:35:19 INFO  [info] loading project definition from /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project/project[0m
+2024.05.25 08:35:21 INFO  [info] loading settings for project practical-fp-in-scala-handson-build from metals.sbt ...[0m
+2024.05.25 08:35:21 INFO  [info] loading project definition from /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project[0m
+2024.05.25 08:35:25 INFO  [success] Generated .bloop/practical-fp-in-scala-handson-build.json[0m
+2024.05.25 08:35:25 INFO  [success] Total time: 4 s, completed May 25, 2024, 8:35:25 AM[0m
+2024.05.25 08:35:30 INFO  [info] loading settings for project root from build.sbt ...[0m
+2024.05.25 08:35:30 INFO  [info] set current project to minimal (in build file:/Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/)[0m
+2024.05.25 08:35:39 INFO  [success] Generated .bloop/root-test.json[0m
+2024.05.25 08:35:39 INFO  [success] Generated .bloop/root.json[0m
+2024.05.25 08:35:39 INFO  [success] Total time: 8 s, completed May 25, 2024, 8:35:39 AM[0m
+2024.05.25 08:35:39 INFO  time: ran 'sbt bloopInstall' in 26s[0m
+2024.05.25 08:35:39 INFO  Disconnecting from Bloop session...[0m
+2024.05.25 08:35:39 INFO  Shut down connection with build server.[0m
+2024.05.25 08:35:39 INFO  Attempting to connect to the build server...[0m
+2024.05.25 08:35:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/bsp.trace.json or /Users/norihito.nakata/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.05.25 08:35:39 INFO  Attempting to connect to the build server...[0m
+2024.05.25 08:35:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project/.metals/bsp.trace.json or /Users/norihito.nakata/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.05.25 08:35:40 INFO  time: Connected to build server in 1.01s[0m
+2024.05.25 08:35:40 INFO  Connected to Build server: Bloop v1.5.17[0m
+2024.05.25 08:35:40 WARN  Unable to run doctor. Make sure `isHttpEnabled` is set to `true`.[0m
+2024.05.25 08:35:47 INFO  time: indexed workspace in 6.93s[0m
+2024.05.25 08:36:25 WARN  no build target for: /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project/plugins.sbt[0m
+2024.05.25 08:36:26 INFO  running '/Users/norihito.nakata/Library/Application Support/Coursier/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2024.05.25 08:36:29 INFO  [info] welcome to sbt 1.10.0 (Eclipse Adoptium Java 17)[0m
+2024.05.25 08:36:32 INFO  [info] loading global plugins from /Users/norihito.nakata/.sbt/1.0/plugins[0m
+2024.05.25 08:36:34 WARN  no build target for: /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project/plugins.sbt[0m
+2024.05.25 08:36:36 INFO  [info] loading settings for project practical-fp-in-scala-handson-build-build-build from metals.sbt ...[0m
+2024.05.25 08:36:36 INFO  [info] loading project definition from /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project/project/project[0m
+2024.05.25 08:36:40 INFO  [info] loading settings for project practical-fp-in-scala-handson-build-build from metals.sbt ...[0m
+2024.05.25 08:36:40 INFO  [info] loading project definition from /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project/project[0m
+2024.05.25 08:36:45 INFO  [success] Generated .bloop/practical-fp-in-scala-handson-build-build.json[0m
+2024.05.25 08:36:45 INFO  [success] Total time: 5 s, completed May 25, 2024, 8:36:45 AM[0m
+2024.05.25 08:36:47 INFO  [info] loading settings for project practical-fp-in-scala-handson-build from metals.sbt,plugins.sbt ...[0m
+2024.05.25 08:36:47 INFO  [info] loading project definition from /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project[0m
+2024.05.25 08:37:05 INFO  [success] Generated .bloop/practical-fp-in-scala-handson-build.json[0m
+2024.05.25 08:37:05 INFO  [success] Total time: 19 s, completed May 25, 2024, 8:37:05 AM[0m
+2024.05.25 08:37:10 INFO  [info] loading settings for project root from build.sbt ...[0m
+2024.05.25 08:37:10 INFO  [info] set current project to minimal (in build file:/Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/)[0m
+2024.05.25 08:37:12 INFO  [success] Generated .bloop/root-test.json[0m
+2024.05.25 08:37:12 INFO  [success] Generated .bloop/root.json[0m
+2024.05.25 08:37:12 INFO  [success] Total time: 1 s, completed May 25, 2024, 8:37:12 AM[0m
+2024.05.25 08:37:12 INFO  time: ran 'sbt bloopInstall' in 45s[0m
+2024.05.25 08:37:12 INFO  Disconnecting from Bloop session...[0m
+2024.05.25 08:37:12 INFO  Shut down connection with build server.[0m
+2024.05.25 08:37:12 INFO  Shut down connection with build server.[0m
+2024.05.25 08:37:12 INFO  Attempting to connect to the build server...[0m
+2024.05.25 08:37:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/bsp.trace.json or /Users/norihito.nakata/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.05.25 08:37:12 INFO  Attempting to connect to the build server...[0m
+2024.05.25 08:37:12 INFO  Attempting to connect to the build server...[0m
+2024.05.25 08:37:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project/.metals/bsp.trace.json or /Users/norihito.nakata/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.05.25 08:37:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project/project/.metals/bsp.trace.json or /Users/norihito.nakata/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.05.25 08:37:12 INFO  time: Connected to build server in 0.96s[0m
+2024.05.25 08:37:12 INFO  Connected to Build server: Bloop v1.5.17[0m
+2024.05.25 08:37:13 INFO  time: Imported build in 0.13s[0m
+2024.05.25 08:37:13 WARN  Unable to run doctor. Make sure `isHttpEnabled` is set to `true`.[0m
+2024.05.25 08:37:20 INFO  time: indexed workspace in 6.86s[0m
+2024.05.25 08:37:30 INFO  skipping build import with status 'Installed'[0m
+2024.05.25 08:37:30 INFO  Disconnecting from Bloop session...[0m
+2024.05.25 08:37:30 INFO  Shut down connection with build server.[0m
+2024.05.25 08:37:30 INFO  Shut down connection with build server.[0m
+2024.05.25 08:37:30 INFO  Shut down connection with build server.[0m
+2024.05.25 08:37:30 INFO  Attempting to connect to the build server...[0m
+2024.05.25 08:37:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/.metals/bsp.trace.json or /Users/norihito.nakata/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.05.25 08:37:30 INFO  Attempting to connect to the build server...[0m
+2024.05.25 08:37:30 INFO  Attempting to connect to the build server...[0m
+2024.05.25 08:37:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project/.metals/bsp.trace.json or /Users/norihito.nakata/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.05.25 08:37:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/norihito.nakata/personal/scala/practical-fp-in-scala-handson/project/project/.metals/bsp.trace.json or /Users/norihito.nakata/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.05.25 08:37:30 INFO  time: Connected to build server in 0.27s[0m
+2024.05.25 08:37:30 INFO  Connected to Build server: Bloop v1.5.17[0m
+2024.05.25 08:37:30 INFO  time: Imported build in 0.1s[0m
+2024.05.25 08:37:30 WARN  Unable to run doctor. Make sure `isHttpEnabled` is set to `true`.[0m
+2024.05.25 08:37:37 INFO  time: indexed workspace in 6.52s[0m
